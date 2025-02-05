@@ -1,0 +1,63 @@
+body{
+    background-color:rgb(53, 50, 50);
+}
+.form{
+    padding: 25px;
+}
+.block{
+    padding-bottom: 5px;
+    padding-right: 2px;
+    background-color: dimgrey;
+    margin: 10px;
+    width: 1500px;
+    color: white;
+}
+textarea{
+    resize:none;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    color: white;
+}
+input{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    padding-right: 4px;
+    padding-left: 4px;
+    margin: 10px;
+}
+.tasks
+{
+   padding: 10px;
+}
+a{
+    color: rgb(103, 103, 232);
+}
+.task{
+    height:fit-content;
+    width: 200px;
+    border-radius: 10px;
+    background-color: dimgrey;
+    margin: 10px;
+   text-align: center;
+   padding: 10px;
+}
+.notask{
+    margin-left: 25px;  
+}
+.edit
+{
+    color:rgb(55, 53, 53);
+}
+h2{
+    font-size: larger;
+    font-weight: 600;
+}
+h1{
+    color: white;
+}
+.block
+{
+    width:300px;
+}
